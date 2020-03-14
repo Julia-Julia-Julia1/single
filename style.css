@@ -1,4 +1,14 @@
 *{
     margin:0;
-    
+   background:blue;
+      
+}
+
+
+
+p{
+display:inline-block;
+width: 200px;
+height: 100px;
+
 }
